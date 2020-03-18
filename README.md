@@ -1,3 +1,9 @@
+<!--
+ * @Author: Ulysses
+ * @Date: 2020-03-17 20:04:06
+ * @LastEditors: Ulysses
+ * @LastEditTime: 2020-03-17 20:07:02
+ -->
 # Deep Learning Specialization on Coursera
 
 **Master Deep Learning, and Break into AI**
@@ -92,3 +98,5 @@ There are concerns that some people may use the content here to quickly ace the 
 ## Milestones
 
   - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
+
+https://blog.csdn.net/u013733326/article/details/79827273
